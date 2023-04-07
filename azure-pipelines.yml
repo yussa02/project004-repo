@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'AzureRmPipeline-rg'
     location: 'West Europe'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/yussa02/project004-repo/main/CreateWebApp/azuredeploy.json?token=GHSAT0AAAAAACAXEYSL5SSKY7SGA3EMTVV6ZBP6A7Q'
+    csmFileLink: 'https://raw.githubusercontent.com/yussa02/project004-repo/main/CreateWebApp/azuredeploy.json?token=GHSAT0AAAAAACAXEYSKB5NMNR7YMOEYDLIEZBP6EJA'
     overrideParameters: '-projectName Project004'
     deploymentMode: 'Incremental'
 - script: echo Hello, world!
